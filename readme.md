@@ -1,2 +1,2 @@
 this is for the pull request
-forked abhay singh repositary 
+forked abhay singh repositary
